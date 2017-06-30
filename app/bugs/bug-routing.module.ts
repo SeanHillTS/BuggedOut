@@ -1,4 +1,4 @@
-import { BugListComponent } from './bug-list/bug.component';
+import { BugListComponent } from './bug-list/bug-list.component';
 import { NgModule } from '@angular/core';
 import { RouterModule } from '@angular/router';
 
